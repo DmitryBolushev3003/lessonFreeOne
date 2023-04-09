@@ -7,7 +7,7 @@ public class Main {
 
         int rubInOneMile = 20;
 
-        int quantityMiles = coast / 20;
+        int quantityMiles = coast / rubInOneMile;
 
         System.out.println(quantityMiles + " бонусных милей упадет на ваш счет");
     }
